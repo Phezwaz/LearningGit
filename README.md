@@ -1,5 +1,5 @@
-# LearningGit
 
 Welcome to my lesson in learning how to use git!
 
-please contribute
+
+hello my name is ben and im learning this stuff
